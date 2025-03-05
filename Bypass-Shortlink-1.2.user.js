@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  https://github.com/thjvjpxz
-// @author       Thidz
+// @author       vhiutm
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
