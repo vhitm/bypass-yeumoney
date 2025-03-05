@@ -2,7 +2,7 @@
 // @name         Bypass-Shortlink
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  https://github.com/thjvjpxz
+// @description  https://github.com/vhitm
 // @author       vhiutm
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
